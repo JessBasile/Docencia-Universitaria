@@ -5,11 +5,11 @@ Hola, soy Jesi Basile, contadora pública, profesora universitaria y analista de
 ## 💼 Sobre los Trabajos
 Cada archivo en este repositorio refleja no solo el esfuerzo y la investigación detrás de mis estudios de posgrado, sino también mi pasión por mejorar la educación y el proceso de enseñanza-aprendizaje en entornos universitarios.
 
+<img align="right" alt="Typing" width="250" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/typing.gif">
+
 Título del Trabajo 1: Breve descripción del objetivo y los temas tratados.
 
 Título del Trabajo 2: Resumen de los hallazgos y su impacto en la docencia.
-
-<img align="right" alt="Typing" width="250" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/typing.gif">
 
 Título del Trabajo 3: Un adelanto de los métodos y estrategias educativas aplicadas.
 
