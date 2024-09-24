@@ -1,16 +1,19 @@
-## 🎓 Posgrados en Docencia Universitaria: Trabajos Finales y Trayectoria Profesional
+## 🎓 Trayectoria Docente Universitaria
 Bienvenida/o
 Hola, soy Jesi Basile, contadora pública, profesora universitaria y analista de datos en constante crecimiento. Este repositorio contiene una colección de mis trabajos finales de posgrado en docencia universitaria. A través de estos proyectos, exploro temas educativos, pedagógicos y tecnológicos aplicados en entornos académicos.
 
-## 📘 Sobre los Trabajos
+## 💼 Sobre los Trabajos
 Cada archivo en este repositorio refleja no solo el esfuerzo y la investigación detrás de mis estudios de posgrado, sino también mi pasión por mejorar la educación y el proceso de enseñanza-aprendizaje en entornos universitarios.
 
 Título del Trabajo 1: Breve descripción del objetivo y los temas tratados.
+
 Título del Trabajo 2: Resumen de los hallazgos y su impacto en la docencia.
+
 Título del Trabajo 3: Un adelanto de los métodos y estrategias educativas aplicadas.
+
 Los documentos están organizados por año y temática, cubriendo desde estudios pedagógicos hasta el uso de la tecnología en el aula.
 
-## 🛤️ Mi Trayectoria Profesional
+## ✈️ Viaje por el Mundo Académico
 Mi camino hacia la docencia universitaria comenzó mucho antes de obtener mis títulos. Desde temprana edad, supe que la enseñanza y el análisis de datos serían parte esencial de mi vida profesional. A lo largo de los años, he desarrollado habilidades que me han permitido integrar la contabilidad, la tecnología y la pedagogía.
 
 Mis Primeros Pasos en la Docencia: Comencé como asistente de cátedra mientras terminaba mi licenciatura en contaduría, y ahí fue donde descubrí mi amor por la enseñanza.
