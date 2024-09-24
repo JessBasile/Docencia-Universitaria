@@ -9,6 +9,8 @@ Título del Trabajo 1: Breve descripción del objetivo y los temas tratados.
 
 Título del Trabajo 2: Resumen de los hallazgos y su impacto en la docencia.
 
+<img align="right" alt="Typing" width="250" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/typing.gif">
+
 Título del Trabajo 3: Un adelanto de los métodos y estrategias educativas aplicadas.
 
 Los documentos están organizados por año y temática, cubriendo desde estudios pedagógicos hasta el uso de la tecnología en el aula.
