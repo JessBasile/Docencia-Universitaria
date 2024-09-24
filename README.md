@@ -1,4 +1,4 @@
-### 🎓 Posgrados en Docencia Universitaria: Trabajos Finales y Trayectoria Profesional
+## 🎓 Posgrados en Docencia Universitaria: Trabajos Finales y Trayectoria Profesional
 Bienvenida/o
 Hola, soy Jesi Basile, contadora pública, profesora universitaria y analista de datos en constante crecimiento. Este repositorio contiene una colección de mis trabajos finales de posgrado en docencia universitaria. A través de estos proyectos, exploro temas educativos, pedagógicos y tecnológicos aplicados en entornos académicos.
 
