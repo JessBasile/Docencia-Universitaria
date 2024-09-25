@@ -44,6 +44,10 @@ Descripción del Rol:
 Imparto clases en la Facultad de Ciencias Económicas, enfocándome en la integración de tecnologías emergentes en la contabilidad.
 Coordino talleres prácticos sobre herramientas como Excel avanzado, Power BI y SQL Server.
 
+## 💡 Reflexiones documentales
+
+Durante estos años de experiencia en el área docente terciario y universitario, 
+
 ## 🚀 Lo que Sigue
 Mi objetivo es seguir formándome y compartir el conocimiento adquirido con una comunidad más amplia. En el futuro, planeo profundizar en el impacto de las tecnologías emergentes en la educación superior, desarrollando nuevas metodologías y estrategias que combinen análisis de datos con pedagogía innovadora.
 
