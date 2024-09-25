@@ -3,9 +3,10 @@
 Soy Jesi Basile, docente universitaria y contadora pública con formación académica complementaria en posgrados, en constante crecimiento profesional. El presente repositorio contiene una colección de mis trabajos finales de posgrado orientados a la docencia universitaria. A través de estos proyectos, fueron explorados temas educativos, pedagógicos y tecnológicos aplicados en entornos académicos universitarios.
 
 ## 💼 Sobre los Trabajos
-Los documentos adjuntos en este repositorio reflejan no solo el esfuerzo y la investigación detrás de mis estudios de posgrado, sino también mi pasión por realizar aportes de mejora en la educación y el proceso de enseñanza-aprendizaje en entornos universitarios.
 
 <img align="right" alt="Typing" width="250" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/typing.gif">
+
+Los documentos adjuntos en este repositorio reflejan no solo el esfuerzo y la investigación detrás de mis estudios de posgrado, sino también mi pasión por realizar aportes de mejora en la educación y el proceso de enseñanza-aprendizaje en entornos universitarios.
 
 [Trabajo Final del Seminario sobre Los estudios universitarios tradiciones y modelos](TF_Seminario_-_Los_estudios_universitarios_tradiciones_y_modelos.pdf): Aunque se trate de un trabajo final de un seminario efectuado durante la Especialización en docencia universitaria, en el mismo se efectuó un trabajo de 🔍 investigación estadística, con manejo de fuentes externas confiables que permitieron responder el interrogante sobre _¿Por qué las carreras tradicionales continúan citando el mayor interés entre los estudiantes?_. Fué un trabajo que no solo permitió abordar una investigación, sino, que através del mismo se pueden identificar conocimientos adquiridos para la elaboración de trabajos con análisis estadístico 📉 orientado al ámbito educativo.
 
