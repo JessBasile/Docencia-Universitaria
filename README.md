@@ -1,13 +1,13 @@
 ## 🎓 Trayectoria Docente Universitaria
-Bienvenida/o
-Hola, soy Jesi Basile, contadora pública, profesora universitaria y analista de datos en constante crecimiento. Este repositorio contiene una colección de mis trabajos finales de posgrado en docencia universitaria. A través de estos proyectos, exploro temas educativos, pedagógicos y tecnológicos aplicados en entornos académicos.
+
+Soy Jesi Basile, docente universitaria y contadora pública con formación académica complementaria en posgrados, en constante crecimiento profesional. El presente repositorio contiene una colección de mis trabajos finales de posgrado orientados a la docencia universitaria. A través de estos proyectos, fueron explorados temas educativos, pedagógicos y tecnológicos aplicados en entornos académicos universitarios.
 
 ## 💼 Sobre los Trabajos
-Cada archivo en este repositorio refleja no solo el esfuerzo y la investigación detrás de mis estudios de posgrado, sino también mi pasión por mejorar la educación y el proceso de enseñanza-aprendizaje en entornos universitarios.
+Los documentos adjuntos en este repositorio reflejan no solo el esfuerzo y la investigación detrás de mis estudios de posgrado, sino también mi pasión por realizar aportes de mejora en la educación y el proceso de enseñanza-aprendizaje en entornos universitarios.
 
 <img align="right" alt="Typing" width="250" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/typing.gif">
 
-Título del Trabajo 1: Breve descripción del objetivo y los temas tratados.
+[Muestras presentaciones lúdicas y gamificativas](Muestras presentaciones lúdicas y gamificativas.pdf): Breve descripción del objetivo y los temas tratados.
 
 Título del Trabajo 2: Resumen de los hallazgos y su impacto en la docencia.
 
