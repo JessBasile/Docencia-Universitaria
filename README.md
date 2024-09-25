@@ -20,23 +20,25 @@ Los documentos están organizados por año y temática, cubriendo desde estudios
 ## ✈️ Viaje por el Mundo Académico
 Mi camino hacia la docencia universitaria comenzó mucho antes de obtener mis títulos. Desde mi juventud, supe que la enseñanza, la contabilidad y análisis de datos serían parte esencial de mi vida profesional. A lo largo de los años, he desarrollado habilidades que me han permitido integrar la contabilidad, el análisis, la tecnología y la pedagogía. Inicialmente con tal solo 16 años, ayudaba a mis compañeros de curso en la secundaria desinteresadamente a rendir las materias pendientes, y desde ese momento comencé a desarrollar habilidades de enseñanza y vocación por la profesión docente.
 
-Mis Primeros Pasos en la Docencia: Comencé dictando clases en una academia de formación profesional, orientada principalmente a la Administración Contable y Gestoría del Automotor durante 3 años. Dentro de dicho período, experimenté educación remota por la intervención de la pandemia. Posteriormente, esa situación sanitaria generó una convocatoria por parte del instituto del cual me egresé como contadora para cumplir el rol como asistente de cátedra - puesto que el profesor titular era factor de riesgo - en 1º Año en la Tecnicatura Superior en Administración de Empresas. Esta oportunidad no solo me permitió experimentar dar clases por primera vez en un instituto terciario, sino, además, trabajar colaborativamente con un colega el cual admiraba muchísimo, puesto que en los años 2007 y 2008 fué mi profesor de Contabilidad por quien tenía un alta admiración.
+`Mis Primeros Pasos en la Docencia:` Comencé dictando clases en una academia de formación profesional, orientada principalmente a la Administración Contable y Gestoría del Automotor durante 3 años. Dentro de dicho período, experimenté educación remota por la intervención de la pandemia. Posteriormente, esa situación sanitaria generó una convocatoria por parte del instituto del cual me egresé como contadora para cumplir el rol como asistente de cátedra - dado que el profesor titular era factor de riesgo - en 1º Año en la Tecnicatura Superior en Administración de Empresas. Esta oportunidad no solo me permitió experimentar dar clases por primera vez en un instituto terciario, sino, además, trabajar colaborativamente con un colega el cual admiraba muchísimo, puesto que en los años 2007 y 2008 fué mi profesor de Contabilidad por quien tenía un alta admiración.
 
-Posteriormente, volví a ser convocada por el mismo instituto para una suplencia en 2º y 3º Año en la carrera de Profesorado en Economía, la cual por mi alta performance se extendió más de lo planeado inicialmente, dado que la docente titular requeria mayor tiempo y se encontraba muy conforme con el desempeño alcanzado por el grupo y por mi.
+Consecuentemente, volví a ser convocada por el mismo instituto para una suplencia en 2º y 4º Año en la carrera del Profesorado en Economía, la cual por mi alta performance se extendió más de lo planeado inicialmente, puesto que la docente titular requeria mayor tiempo y se encontraba muy conforme con el desempeño alcanzado por el grupo y por mi.
 
-El Puente Entre la Contabilidad y la Docencia: Después de años de experiencia en el área de finanzas, decidí aplicar ese conocimiento en un contexto académico. Esto me llevó a enseñar en la universidad y a iniciar mis estudios de posgrado en docencia universitaria.
+`El Puente Entre la Contabilidad y la Docencia:` Después de contar con más de 10 años de experiencia en el área de finanzas, el instituto que me habia convocado con anterioridad para cubrir suplencias, esta vez en el año 2023 ofrecen una ***titularidad** sobre ***dos*** asignaturas en la carrera de Sistemas y desarrollo de Software. 1º y 2º dictando Administración de Empresas y Contabilidad. Esa oportunidad - que continúa vigente hasta la fecha - me permitió diseñar material lúdico y didáctico, actualizando el mismo todos los años, y modernizándoló en pos de un crecimiento profesional y académico para los estudiantes que cursaban conmigo.
 
-Pasión por la Tecnología: Mi curiosidad me llevó a explorar herramientas tecnológicas como MySQL, Power BI y SQL Server. Las utilizo tanto en el aula como en la investigación educativa para mejorar las metodologías de enseñanza.
+`Docencia Universitaria:` En el 2024 la Universidad Católica de la Plata, Sede Gualeguaychú me convoca para ofrecerme las horas del Seminario de Investigación Científica para efectuar el acompañamiento y preparación de tésis con los estudiantes de 5º Año de la carrera de Contador Público. Esta propuesta no solo significó un gran salto hacia la educación de grado ***Universitaria***, sino, el desafío de enseñar e impulsar la investigación en los estudiantes sobre ejes temáticos de interés. Es un gran progreso en mi carrera docente, que dada mi formación en posgrados, pude alcanzar un alto rendimiento, diseñando [material](https://drive.google.com/drive/folders/1Usd943vUregzCYdFRfaV7BzvxCwjvmj3?usp=drive_link) específico, didáctico y útil, incluso para estudiantes de otras universidades en las que mis estudiantes compartieron los recursos.
+
+`Pasión por la Tecnología:` Mi curiosidad y deseos de superación en el ámbito docente, me llevó a comenzar posgrados en docencia, donde descubri la ***tecnología educativa*** y _"fué un camino sin retorno"_, en tan alta medida, que posteriormente decidí efectuar un posgrado en tecnología educativa en UBA (sobre el cual me encuentro en elaboración del Trabajo Final).
 
 ## 🏫 Desempeño Actual en Universidades
-A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversas instituciones educativas, donde me dedico a la enseñanza de materias relacionadas con mi formación en contaduría, análisis de datos y docencia universitaria. Aquí presento un resumen de mi labor actual:
+A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversas instituciones educativas de diferentes niveles académicos (de formación profesional, terciarios y universitarios), donde me dedico a la enseñanza de materias relacionadas con mi formación en contaduría, administración e empresas, análisis de datos e investigación. Aquí presento un resumen de mi labor actual:
 
-+ ***Universidad Nacional de X***
-Materias que Doy:
-Contabilidad Avanzada
-Análisis Financiero con Herramientas de Business Intelligence
++ ***Universidad Autónoma de Entre Ríos - UADER***
+Materias que Dicto:
+Contabilidad General
+Recursos Humanos
 
-Fecha de Ingreso: Marzo 2018
+Fecha de Ingreso: Agosto 2021
 
 Descripción del Rol:
 Imparto clases en la Facultad de Ciencias Económicas, enfocándome en la integración de tecnologías emergentes en la contabilidad.
