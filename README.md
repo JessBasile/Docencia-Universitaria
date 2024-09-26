@@ -76,7 +76,6 @@ _Descripción del Rol:_
 Se dictan clases 
 
 ---
-
 ## 🌍💻 Desempeño en Educación Remota
 
 <img align="right" alt="Logo CODER" width="200" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-coderr.png">
