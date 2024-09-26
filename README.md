@@ -35,10 +35,9 @@ A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversas insti
 
 + ***Universidad Autónoma de Entre Ríos - UADER***
 
-Materias que Dicto:
-
 <img align="right" alt="Logo UADER" width="300" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-uader.jpg">
 
+Materias que Dicto:
 1. Contabilidad General: Se dicta en 1º Año.
 2. Recursos Humanos: Se dicta en 2º Año, y esta asignaturá me inspiro lo suficiente como para realizar una Maestrías en Gestión y Dirección de Recursos Humanos, que en la actualidad me encuentro en elaboración de tesis.
 
