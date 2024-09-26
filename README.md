@@ -78,10 +78,11 @@ Se dictan clases
 ---
 ## 💡 Reflexiones adicionales
 
-Durante estos años de experiencia en el área docente terciario y universitario, 
+Durante estos años de experiencia en el área docente terciario y universitario, interactué con bastantes grupos de estudiantes distintos, donde cada división desarrolla una identidad propia como equipo. En el 2024 en particular, tuve la dicha de conocer un grupo de 1º B en la carrera de Sistemas que marcó mi visión como docente. Fué un grupo que no solo demostró alto interés en la asignatura - a pesar de no ser específica en la carrera - sino, reales intenciones de superación, aprendizaje colaborativo, compañerismo e incluso solicitar un aprendizaje más allá del previsto por la cátedra y el material adicional que yo ya les daba. Fué un grupo que sin dudas, me enseñó a ser mejor docente y a continuación comparto una foto de los protagonistas y yo 📸
+
+
 
 ## 🚀 Lo que Sigue
-Mi objetivo es seguir formándome y compartir el conocimiento adquirido con una comunidad más amplia. En el futuro, planeo profundizar en el impacto de las tecnologías emergentes en la educación superior, desarrollando nuevas metodologías y estrategias que combinen análisis de datos con pedagogía innovadora.
-
+Mi objetivo es continuar formándome y compartir el conocimiento adquirido con una comunidad más amplia. En el futuro, planeo profundizar en el impacto de las tecnologías emergentes en la educación superior, implementando reformas en mis cátedras que incluyan a la tecnología como protagonista. Deseo migrar hacia un esquema remoto o híbrido que permita a los estudiantes y a mi, flexibilidad para compatibilizar mejor la vida personal con la académica. 
 ___
 <h2 align="center">¡Gracias por visitar este repositorio! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
