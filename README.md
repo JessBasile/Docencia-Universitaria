@@ -66,7 +66,7 @@ _Descripción del Rol:_ Imparto clases en la carrera de Programador y desarrollo
 ***Universidad Católica de Santa Fé - UCSF***
 
 _Materia que Dicto:_
-1. Seminario de Investigación Científica: Es una cátedra para los estudiante de 5º Años de la carrera de Contador Público, cuya finalidad es la elaboración de proyectos de investigación con investigación de campo.
+1. Seminario de Investigación Científica: Es una cátedra dirigida a los estudiantes de 5º Años de la carrera de Contador Público, cuya finalidad es la elaboración de proyectos de investigación con efectuando la correspondiente investigación de campo que implica.
 
 _Fecha de Ingreso:_ Febrero 2024
 
