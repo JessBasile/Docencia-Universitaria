@@ -45,8 +45,7 @@ _Materias que Dicto:_
 
 _Fecha de Ingreso:_ Agosto 2021
 
-_Descripción del Rol:_
-Imparto clases en la Facultad de Ciencias de la Gestión en la carreta de Tecnicatura en Hotelería. Aunque el sector no se encuentra 100% vinculado a mi formación de grado y posgrado, todos los temás que enseño siempre son aplicados a esa área específica en la que los estudiantes se especializan, para lograr una integración de los mismos al sector en el que van a desempeñarse posteriormente en el mercado laboral.
+_Descripción del Rol:_ Imparto clases en la Facultad de Ciencias de la Gestión en la carreta de Tecnicatura en Hotelería. Aunque el sector no se encuentra 100% vinculado a mi formación de grado y posgrado, todos los temás que enseño siempre son aplicados a esa área específica en la que los estudiantes se especializan, para lograr una integración de los mismos al sector en el que van a desempeñarse posteriormente en el mercado laboral.
 
 ---
 <img align="right" alt="Logo Sedes" width="300" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-sedes.png">
@@ -59,22 +58,19 @@ _Materias que Dicto:_
 
 _Fecha de Ingreso:_ Febrero 2023
 
-_Descripción del Rol:_
-Imparto clases en la carrera de Programador y desarrollo de Software, en 1º y 2º Año de la carrera en las asignaturas especificadas ut supra. Al igual que en otras instituciones, siempre busco implementar los contenidos administrativos y contables a 
+_Descripción del Rol:_ Imparto clases en la carrera de Programador y desarrollo de Software, en 1º y 2º Año de la carrera en las asignaturas especificadas ut supra. Al igual que en otras instituciones, siempre busco implementar los contenidos administrativos y contables a 
 
 ---
 <img align="right" alt="Logo UCSF" width="300" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-UCSF.png">
 
 ***Universidad Católica de Santa Fé - UCSF***
 
-_Materias que Dicto:_
-
-Seminario de Investigación Científica: E
+_Materia que Dicto:_
+1. Seminario de Investigación Científica: Es una cátedra cuya finalidad es la elaboración de proyectos de investigación con investigación de campo.
 
 _Fecha de Ingreso:_ Febrero 2024
 
-_Descripción del Rol:_
-Se dictan clases 
+_Descripción del Rol:_ En este espacio, se espera que los estudiantes de 5º Año de la carrera de Contador Público adquieran los conocimientos y habiliadades necesarias para efectuar recolección de datos con distintos métodos y elaborar el proyecto final con una redacción académica de alto nivel, con estricto respeto de Normas APA. Como docente a cargo soy la responsable de presentarles los ejes temáticos más contemporáneos, las partes que conforman una investigación, los métodos de recolección disponibles (y su elaboración), la estructura de sus trabajos y la redacción y citado acorde a la reglamentación prevista por APA.
 
 ---
 ## 🌍💻 Desempeño en Educación Remota
@@ -83,13 +79,11 @@ Se dictan clases
 
 ***CODERHOUSE***
 
-_Rol desempeñado:_
-Fuí convocada por la academia para desempeñar el rol de ***Tutora Adjunta*** en el curso de "Administración de Empresas". 
+_Rol desempeñado:_ Fuí convocada por la academia para desempeñar el rol de ***Tutora Adjunta*** en el curso de "Administración de Empresas" en la sección de Escuela de Negocios que ofrece la academia (entre otras secciones orientadas a otras herramientas y áreas).
 
 _Fecha de Ingreso:_ Junio 2024
 
-_Descripción del Rol:_
-Asistir al docente en las clases, efectuando la asistencia 
+_Descripción del Rol:_ Asistir a los estudiantes y al docente durane el desarrollo de las clases remotas y posteriormente evacuar las dudas que puedan surgir e incluso compartir o diseñar material adicional que colabore en el aprendizaje significativo de los estudiantes. Asimismo, soy la encargada de tomar la asistencia durante las clases virtuales y corregir el 50% de los examenes finales del curso junto con el profesor a cargo. 
 
 ---
 ## 💡 Reflexiones adicionales
