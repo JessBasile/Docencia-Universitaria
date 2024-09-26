@@ -76,6 +76,19 @@ _Descripción del Rol:_
 Se dictan clases 
 
 ---
+<img align="right" alt="Logo CODER" width="300" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-coderr.png">
+
+***CODERHOUSE***
+
+_Rol que desempeño:_
+Fuí convocada por la academia para desempeñar el rol de ***Tutora Adjunta*** en el curso de "Administración de Empresas". 
+
+_Fecha de Ingreso:_ Junio 2024
+
+_Descripción del Rol:_
+Asistir al docente en las clases, efectuando la asistencia 
+
+---
 ## 💡 Reflexiones adicionales
 
 Durante estos años de experiencia en el área docente terciario y universitario, interactué con bastantes grupos de estudiantes distintos, donde cada división desarrolla una identidad propia como equipo. En el 2024 en particular, tuve la dicha de conocer un grupo de 1º B en la carrera de Sistemas que marcó mi visión como docente. Fué un grupo que no solo demostró alto interés en la asignatura - a pesar de no ser específica en la carrera - sino, reales intenciones de superación, aprendizaje colaborativo, compañerismo e incluso solicitar un aprendizaje más allá del previsto por la cátedra y el material adicional que yo ya les daba. Fué un grupo que sin dudas, me enseñó a ser mejor docente y a continuación comparto una foto de los protagonistas y yo 📸
