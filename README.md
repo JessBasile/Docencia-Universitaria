@@ -38,25 +38,25 @@ A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversas insti
 
 ***Universidad Autónoma de Entre Ríos - UADER***
 
-Materias que Dicto:
+_Materias que Dicto:_
 1. Contabilidad General: Se dicta en 1º Año.
 2. Recursos Humanos: Se dicta en 2º Año, y esta asignaturá me inspiro lo suficiente como para realizar una Maestrías en Gestión y Dirección de Recursos Humanos, que en la actualidad me encuentro en elaboración de tesis.
 
-Fecha de Ingreso: Agosto 2021
+_Fecha de Ingreso:_ Agosto 2021
 
-Descripción del Rol:
+_Descripción del Rol:_
 Imparto clases en la Facultad de Ciencias de la Gestión en la carreta de Tecnicatura en Hotelería. Aunque el sector no se encuentra 100% vinculado a mi formación de grado y posgrado, todos los temás que enseño siempre son aplicados a esa área específica en la que los estudiantes se especializan, para lograr una integración de los mismos al sector en el que van a desempeñarse posteriormente en el mercado laboral.
 
 ---
 ***Instituto Sedes Sapientiae***
 
-Materias que Dicto:
+_Materias que Dicto:_
 1. Administración y Gestión I: En 1º Año de la carrera de Programador y desarrollo de Software, cátedra en la que se enseñan en su mayoría contenidos de administración de empresas y documentoc comerciales con práctica - incluso en moneda extranjera - en facturación.
 2. Administración y Gestión II: En 2º Año de la carrera de Programador y desarrollo de Software, cátedra en la que enseñan contenidos contables y el desarrollo de proyectos de emprendimiento a fin de preparar a los estudiantes en poder ejercer su profesión en forma independiente y no en relación de dependencia (si así lo desearan).
 
-Fecha de Ingreso: Febrero 2023
+_Fecha de Ingreso:_ Febrero 2023
 
-Descripción del Rol:
+_Descripción del Rol:_
 Imparto clases en la carrera de Programador y desarrollo de Software, en los 
 
 ---
