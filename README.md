@@ -82,4 +82,5 @@ Durante estos años de experiencia en el área docente terciario y universitario
 ## 🚀 Lo que Sigue
 Mi objetivo es seguir formándome y compartir el conocimiento adquirido con una comunidad más amplia. En el futuro, planeo profundizar en el impacto de las tecnologías emergentes en la educación superior, desarrollando nuevas metodologías y estrategias que combinen análisis de datos con pedagogía innovadora.
 
-¡Gracias por visitar este repositorio! Si tienes preguntas o comentarios sobre los trabajos, no dudes en contactarme.
+___
+<h2 align="center">¡Gracias por visitar este repositorio! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
