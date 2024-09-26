@@ -68,6 +68,7 @@ Imparto clases en la carrera de Programador y desarrollo de Software, en 1º y 2
 ***Universidad Católica de Santa Fé - UCSF***
 
 _Materias que Dicto:_
+
 Seminario de Investigación Científica: E
 
 _Fecha de Ingreso:_ Febrero 2024
