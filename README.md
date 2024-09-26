@@ -48,6 +48,8 @@ _Descripción del Rol:_
 Imparto clases en la Facultad de Ciencias de la Gestión en la carreta de Tecnicatura en Hotelería. Aunque el sector no se encuentra 100% vinculado a mi formación de grado y posgrado, todos los temás que enseño siempre son aplicados a esa área específica en la que los estudiantes se especializan, para lograr una integración de los mismos al sector en el que van a desempeñarse posteriormente en el mercado laboral.
 
 ---
+<img align="right" alt="Logo Sedes" width="300" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-sedes.png">
+
 ***Instituto Sedes Sapientiae***
 
 _Materias que Dicto:_
