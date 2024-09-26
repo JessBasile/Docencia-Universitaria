@@ -59,11 +59,23 @@ _Materias que Dicto:_
 _Fecha de Ingreso:_ Febrero 2023
 
 _Descripción del Rol:_
-Imparto clases en la carrera de Programador y desarrollo de Software, en los 
+Imparto clases en la carrera de Programador y desarrollo de Software, en 1º y 2º Año de la carrera en las asignaturas especificadas ut supra. Al igual que en otras instituciones, siempre busco implementar los contenidos administrativos y contables a 
 
 ---
+<img align="right" alt="Logo UCSF" width="300" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-UCSF.png">
 
-## 💡 Reflexiones documentales
+***Universidad Católica de Santa Fé - UCSF***
+
+_Materias que Dicto:_
+Seminario de Investigación Científica: E
+
+_Fecha de Ingreso:_ Febrero 2024
+
+_Descripción del Rol:_
+Se dictan clases 
+
+---
+## 💡 Reflexiones adicionales
 
 Durante estos años de experiencia en el área docente terciario y universitario, 
 
