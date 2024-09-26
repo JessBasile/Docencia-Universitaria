@@ -53,7 +53,7 @@ _Descripción del Rol:_ Imparto clases en la Facultad de Ciencias de la Gestión
 ***Instituto Sedes Sapientiae***
 
 _Materias que Dicto:_
-1. Administración y Gestión I: En 1º Año de la carrera de Programador y desarrollo de Software, cátedra en la que se enseñan en su mayoría contenidos de administración de empresas y documentoc comerciales con práctica - incluso en moneda extranjera - en facturación.
+1. Administración y Gestión I: En 1º Año de la carrera de Programador y desarrollo de Software, cátedra en la que se enseñan en su mayoría contenidos de administración de empresas y documentos comerciales con práctica - incluso en moneda extranjera - en facturación.
 2. Administración y Gestión II: En 2º Año de la carrera de Programador y desarrollo de Software, cátedra en la que enseñan contenidos contables y el desarrollo de proyectos de emprendimiento a fin de preparar a los estudiantes en poder ejercer su profesión en forma independiente y no en relación de dependencia (si así lo desearan).
 
 _Fecha de Ingreso:_ Febrero 2023
