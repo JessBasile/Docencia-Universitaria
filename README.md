@@ -32,7 +32,7 @@ Consecuentemente, volví a ser convocada por el mismo instituto para una suplenc
 `Pasión por la Tecnología:` Mi curiosidad y deseos de superación en el ámbito docente, me llevó a comenzar posgrados en docencia, donde descubri la ***tecnología educativa*** y _"fué un camino sin retorno"_, en tan alta medida, que posteriormente decidí efectuar un posgrado en tecnología educativa en UBA (sobre el cual me encuentro en elaboración del Trabajo Final).
 
 ## 🏫 Desempeño Actual en Universidades
-A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversas instituciones educativas de diferentes niveles académicos (de formación profesional, terciarios y universitarios), donde me dedico a la enseñanza de materias relacionadas con mi formación en contaduría, administración e empresas, análisis de datos e investigación. Aquí presento un resumen de mi labor actual:
+A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversas instituciones educativas de diferentes niveles académicos (de formación profesional, terciarios y universitarios), donde me dedico a la enseñanza de materias relacionadas con mi formación en contaduría, administración de empresas, análisis de datos e investigación. Aquí presento un resumen de mi labor actual:
 
 ---
 <img align="right" alt="Logo UADER" width="300" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-uader.jpg">
