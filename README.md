@@ -76,7 +76,7 @@ _Descripción del Rol:_
 Se dictan clases 
 
 ---
-<img align="right" alt="Logo CODER" width="300" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-coderr.png">
+<img align="right" alt="Logo CODER" width="250" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-coderr.png">
 
 ***CODERHOUSE***
 
