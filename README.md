@@ -34,10 +34,11 @@ Consecuentemente, volví a ser convocada por el mismo instituto para una suplenc
 A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversas instituciones educativas de diferentes niveles académicos (de formación profesional, terciarios y universitarios), donde me dedico a la enseñanza de materias relacionadas con mi formación en contaduría, administración e empresas, análisis de datos e investigación. Aquí presento un resumen de mi labor actual:
 
 + ***Universidad Autónoma de Entre Ríos - UADER***
-+ 
-<img align="right" alt="Logo UADER" width="150" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-uader.jpg">
 
 Materias que Dicto:
+
+<img align="right" alt="Logo UADER" width="300" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-uader.jpg">
+
 1. Contabilidad General: Se dicta en 1º Año.
 2. Recursos Humanos: Se dicta en 2º Año, y esta asignaturá me inspiro lo suficiente como para realizar una Maestrías en Gestión y Dirección de Recursos Humanos, que en la actualidad me encuentro en elaboración de tesis.
 
