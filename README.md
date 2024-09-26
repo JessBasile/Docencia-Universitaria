@@ -76,11 +76,14 @@ _Descripción del Rol:_
 Se dictan clases 
 
 ---
+
+## 🌍💻 Desempeño en Educación Remota
+
 <img align="right" alt="Logo CODER" width="200" src="https://github.com/JessBasile/Docencia-Universitaria/raw/main/imagenes/logo-coderr.png">
 
 ***CODERHOUSE***
 
-_Rol que desempeño:_
+_Rol desempeñado:_
 Fuí convocada por la academia para desempeñar el rol de ***Tutora Adjunta*** en el curso de "Administración de Empresas". 
 
 _Fecha de Ingreso:_ Junio 2024
